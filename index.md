@@ -59,7 +59,7 @@ end
 | ok           | good `zoute` drop | yumm  |
 
 | <a href="https://wihi1131.github.io/Data-Mining-Project/Introduction">Introduction to our Project Topic</a>        | head two          | three |
-|:-------------|:------------------|:------|
+
 
 ### There's a horizontal rule below this.
 
