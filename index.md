@@ -58,8 +58,8 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-| <a href="https://wihi1131.github.io/Data-Mining-Project/Introduction">Introduction to our Project Topic</a>        | head two          | three |
-|---|---|---|
+|<a href="https://wihi1131.github.io/Data-Mining-Project/Introduction">Introduction to our Project Topic</a>|<a href="https://wihi1131.github.io/Data-Mining-Project/Data Exploration">Data Exploration</a>|<a href="https://wihi1131.github.io/Data-Mining-Project/Models Implemented">Models Implemented</a>|<a href="https://wihi1131.github.io/Data-Mining-Project/Conclusion">Conclusions & Results</a>|<a href="https://wihi1131.github.io/Data-Mining-Project/Team">Meet the Team</a>|
+|---|---|---|---|---|
 
 ### There's a horizontal rule below this.
 
